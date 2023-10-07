@@ -1,7 +1,7 @@
 <h1>Scientifc Calculator GUI</h1>
 
 <h2>Description</h2>
-Constructed a fully operational Scientific Calculator using Java in the Eclipse IDE for a course project sophomore year.
+Created a full-featured scientific calculator using Java in the Eclipse IDE, capable of performing basic arithmetic operations and a few scientific functions like square root, exponentiation, and trigonometric functions.
 <br />
 
 <h2>Languages and Utilities Used</h2>
